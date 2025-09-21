@@ -56,11 +56,3 @@ Thumbs.db
 *.dat
 *.tmp
 *.bak
-
-# Figures / outputs (optional — ignore if generated)
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.svg
-*.pdf
