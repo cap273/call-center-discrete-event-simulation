@@ -1,0 +1,66 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Jupyter Notebook metadata
+*.nbconvert.ipynb
+
+# Python virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Environment and package management
+*.egg-info/
+.eggs/
+*.egg
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+
+# macOS / Linux / Windows cruft
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Jupyter extensions / local configs
+.ipython/
+.jupyter/
+
+# VSCode / PyCharm / IDE configs
+.vscode/
+.idea/
+
+# Data files (optional — only ignore if they’re large or generated)
+*.csv
+*.tsv
+*.dat
+*.tmp
+*.bak
+
+# Figures / outputs (optional — ignore if generated)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.pdf
